@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rashmivicky06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DijGSTM4t5CfPYA8K1zP3GTiAGfhE1YK/view?usp=sharing](https://drive.google.com/file/d/1DijGSTM4t5CfPYA8K1zP3GTiAGfhE1YK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hhlNRyDzFZTuapVHy9z3HYCdxa_zS5zJ/view?usp=sharing](https://drive.google.com/file/d/1hhlNRyDzFZTuapVHy9z3HYCdxa_zS5zJ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
