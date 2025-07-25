@@ -20,13 +20,6 @@
 - 📫 Reach me at: **rashmivicky06@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rashmivicky2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashmivicky2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rashmi-ranjan-sahoo-5a3b1b193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi-ranjan-sahoo-5a3b1b193" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rashmivicky06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rashmivicky06" height="30" width="40" /></a>
-</p>
-
 🛠 **Tech Stack**  
 Languages & Tools:  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -48,3 +41,7 @@ Languages & Tools:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rr-sahoo&theme=radical" alt="Rashmi's GitHub Streak" />
 </p>
 
+📄 **Resume & Links**
+- [📄 Resume]([https://drive.google.com/file/d/1hhlNRyDzFZTuapVHy9z3HYCdxa_zS5zJ/view?usp=sharing](https://drive.google.com/file/d/1RvU_FZyWTjr1r54f4uTafQsA8oHwix5E/view?usp=sharing))
+- [🌐 Portfolio](https://rr-sahoo.github.io/)
+- [🔗 LinkedIn]([https://www.linkedin.com/in/rashmi-ranjan-sahoo-5a3b1b193/](https://www.linkedin.com/in/rr-sahoo/))
