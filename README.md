@@ -5,14 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=rr-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="rr-sahoo" />
 </p>
 ---
-💻 **About Me**  
+## 💻 About Me
 
-- 🔭 Currently building production-grade web apps at **Crestfort Technologies**
-- 🌱 Leveling up in **open source contributions** and fullstack skills (MERN)  
-- 📌 2+ years of frontend experience using **React.js, Next.js, Remix, Tailwind**  
-- ⚡ Passionate about performance, accessibility, and modern UI development  
-- 📚 Looking to **collaborate on frontend-focused open source projects**  
-- 📫 Reach me at: **rashmivicky06@gmail.com**
+- 🔭 &nbsp;Currently building production-grade web apps at **Crestfort Technologies**
+- 🌱 &nbsp;Leveling up in **open source contributions** and fullstack skills (MERN)
+- 📌 &nbsp;2+ years of frontend experience using **React.js, Next.js, Remix, Tailwind**
+- ⚡ &nbsp;Passionate about **performance, accessibility, and modern UI development**
+- 🤝 &nbsp;Looking to collaborate on **frontend-focused open source projects**
+- 📫 &nbsp;Reach me at: **rashmivicky06@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
