@@ -42,9 +42,9 @@ Languages & Tools:
 ![Strapi](https://img.shields.io/badge/-Strapi-4945FF?style=flat&logo=strapi)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rr-sahoo&show_icons=true&locale=en&layout=compact" alt="rr-sahoo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rr-sahoo&show_icons=true&locale=en" alt="rr-sahoo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rr-sahoo&" alt="rr-sahoo" /></p>
+📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rr-sahoo&show_icons=true&theme=radical" alt="Rashmi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rr-sahoo&theme=radical" alt="Rashmi's GitHub Streak" />
+</p>
 
