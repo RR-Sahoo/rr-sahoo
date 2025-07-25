@@ -6,7 +6,8 @@
 </p>
 ---
 💻 **About Me**  
-- 🔭 Currently building production-grade web apps at **Crestfort Technologies**  
+
+- 🔭 Currently building production-grade web apps at **Crestfort Technologies**
 - 🌱 Leveling up in **open source contributions** and fullstack skills (MERN)  
 - 📌 2+ years of frontend experience using **React.js, Next.js, Remix, Tailwind**  
 - ⚡ Passionate about performance, accessibility, and modern UI development  
