@@ -45,3 +45,8 @@ Languages & Tools:
 - [📄 Resume](https://drive.google.com/file/d/1RvU_FZyWTjr1r54f4uTafQsA8oHwix5E/view?usp=sharing)
 - [🌐 Portfolio](https://rr-sahoo.github.io/)
 - [🔗 LinkedIn](https://www.linkedin.com/in/rr-sahoo/)
+
+🧠 **Currently Learning**  
+- Contribution workflow (fork → clone → branch → commit → PR → merge)
+- Communication with maintainers
+- Community guidelines & open source etiquette
