@@ -50,3 +50,6 @@ Languages & Tools:
 - Contribution workflow (fork → clone → branch → commit → PR → merge)
 - Communication with maintainers
 - Community guidelines & open source etiquette
+- 
+🔥 **Fun Fact**  
+> _I think I’m funny, but my console usually disagrees..._
