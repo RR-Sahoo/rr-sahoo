@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rashmi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rashmi Ranjan Sahoo</h1>
+<h3 align="center">Frontend Developer | React.js · Next.js · Remix | Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rr-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="rr-sahoo" /> </p>
 
