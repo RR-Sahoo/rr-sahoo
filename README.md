@@ -35,6 +35,11 @@ Languages & Tools:
 ![Strapi](https://img.shields.io/badge/-Strapi-4945FF?style=flat&logo=strapi)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook)
 
+🧠 **Currently Learning**  
+- Contribution workflow (fork → clone → branch → commit → PR → merge)
+- Communication with maintainers
+- Community guidelines & open source etiquette
+
 📊 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rr-sahoo&show_icons=true&theme=radical" alt="Rashmi's GitHub Stats" />
@@ -46,10 +51,7 @@ Languages & Tools:
 - [🌐 Portfolio](https://rr-sahoo.github.io/)
 - [🔗 LinkedIn](https://www.linkedin.com/in/rr-sahoo/)
 
-🧠 **Currently Learning**  
-- Contribution workflow (fork → clone → branch → commit → PR → merge)
-- Communication with maintainers
-- Community guidelines & open source etiquette
-- 
+
+  
 🔥 **Fun Fact**  
 > _I think I’m funny, but my console usually disagrees..._
