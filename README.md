@@ -1,25 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rashmi Ranjan Sahoo</h1>
 <h3 align="center">Frontend Developer | React.js · Next.js · Remix | Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rr-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="rr-sahoo" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rr-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="rr-sahoo" />
+</p>
+---
+💻 **About Me**  
+- 🔭 Currently building production-grade web apps at **Crestfort Technologies**  
+- 🌱 Leveling up in **open source contributions** and fullstack skills (MERN)  
+- 📌 2+ years of frontend experience using **React.js, Next.js, Remix, Tailwind**  
+- ⚡ Passionate about performance, accessibility, and modern UI development  
+- 📚 Looking to **collaborate on frontend-focused open source projects**  
+- 📫 Reach me at: **rashmivicky06@gmail.com**
 
-- 🔭 I’m currently working on **Web Frontend**
-
-- 🌱 I’m currently learning **React Js**
-
-- 👯 I’m looking to collaborate on **Fullstack Based Project**
-
-- 🤝 I’m looking for help with **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [https://rr-sahoo.github.io/](https://rr-sahoo.github.io/)
-
-- 💬 Ask me about **Frontend**
-
-- 📫 How to reach me **rashmivicky06@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hhlNRyDzFZTuapVHy9z3HYCdxa_zS5zJ/view?usp=sharing](https://drive.google.com/file/d/1hhlNRyDzFZTuapVHy9z3HYCdxa_zS5zJ/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
