@@ -7,16 +7,16 @@
 
 ## 💻 About Me
 
-- 🔭 Currently building production-grade web apps at **Crestfort Technologies**  
-<br>
+- 🔭 Currently building production-grade web apps at **Crestfort Technologies**
+
 - 🌱 Leveling up in **open source contributions** and fullstack skills (MERN)  
-<br>
+
 - 📌 2+ years of frontend experience using **React.js, Next.js, Remix, Tailwind**  
-<br>
+
 - ⚡ Passionate about **performance, accessibility, and modern UI development**  
-<br>
+
 - 🤝 Looking to collaborate on **frontend-focused open source projects**  
-<br>
+
 - 📫 Reach me at: **rashmivicky06@gmail.com**
 
 
