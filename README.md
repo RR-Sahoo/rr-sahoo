@@ -42,6 +42,6 @@ Languages & Tools:
 </p>
 
 📄 **Resume & Links**
-- [📄 Resume]([https://drive.google.com/file/d/1hhlNRyDzFZTuapVHy9z3HYCdxa_zS5zJ/view?usp=sharing](https://drive.google.com/file/d/1RvU_FZyWTjr1r54f4uTafQsA8oHwix5E/view?usp=sharing))
+- [📄 Resume](https://drive.google.com/file/d/1RvU_FZyWTjr1r54f4uTafQsA8oHwix5E/view?usp=sharing)
 - [🌐 Portfolio](https://rr-sahoo.github.io/)
-- [🔗 LinkedIn]([https://www.linkedin.com/in/rashmi-ranjan-sahoo-5a3b1b193/](https://www.linkedin.com/in/rr-sahoo/))
+- [🔗 LinkedIn](https://www.linkedin.com/in/rr-sahoo/)
